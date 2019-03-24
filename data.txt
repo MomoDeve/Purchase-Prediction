@@ -1,0 +1,20 @@
+11 11
+Hammer Paper Snickers Screwdriver Pen Kit-Kat Wrench Pencil Health-Bar Tape Binder
+0 0 0 0 0 1 0 0 1 0 0
+0 1 0 0 0 0 0 1 0 0 1 
+0 0 0 1 0 0 1 0 0 1 0
+0 0 0 0 1 0 0 1 0 0 1
+1 0 0 1 0 0 0 0 0 1 0
+0 0 0 0 1 0 0 0 0 0 1
+1 0 0 1 0 0 0 0 0 0 0
+0 0 1 0 0 0 0 0 1 0 0
+0 0 0 0 1 0 0 1 0 0 0
+0 0 1 0 0 1 0 0 1 0 0
+1 0 1 1 0 1 0 0 0 0 0
+
+
+<this file contains test data for algorithm:
+ First line: [item amount] [customers amount]
+ Second line: item names
+ Other lines: customer binary vectors>
+ 
